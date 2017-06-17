@@ -1,0 +1,19 @@
+# Prefs
+*.suo
+*.vsp
+
+# Build
+bin/
+obj/
+.vscode/
+.vs/
+
+# Nuget
+packages/
+
+# Vim
+*~
+*.swo
+*.swp
+*.swn
+*.swm
